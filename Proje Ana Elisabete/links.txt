@@ -1,0 +1,14 @@
+
+tel:5581998550300
+whatsapp
+https://api.whatsapp.com/send?phone=5581998550300&text=Ol%C3%A1%20Somos%20A%26F%20Talentos%20em%20RH%2C%20em%20que%20podemos%20ajudar%3F
+localização
+https://goo.gl/maps/m4XQ7ggBC2keUqj47
+facebook
+https://www.facebook.com/AefTalentos
+site
+https://www.aeftalentos.com.br/
+email
+mailto:ana.alves@aeftalentos.com.br
+Instagram
+https://www.instagram.com/aeftalentos/
